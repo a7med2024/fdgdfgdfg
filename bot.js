@@ -13,7 +13,7 @@ const token = "NTMzOTkzMzQ4MDgwNTk5MDQw.DxzHmQ.MZH1ff1rgpwPgWJzjwCfPIDy8Tc";
 
 client.on("ready", () => {
   console.log("Vulnix | Logged in! Server count: ${client.guilds.size}");
-  client.user.setGame(`Support Magic |${prefix}new`);
+  client.user.setGame(`Support A7med |${prefix}new`);
 });
 
 
